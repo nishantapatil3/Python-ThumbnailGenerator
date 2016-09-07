@@ -1,5 +1,7 @@
-# python-thumbnail
-Auto thumbnail generator for video files. Using OpenCV face detection.
+# Python-ThumbnailGenerator
 
-run:
-python thumbnail.py test.mp4
+Thumbnail generator for video files. Using OpenCV face detection.
+
+```
+$ python thumbnail.py test.mp4
+```
